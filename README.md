@@ -11,3 +11,4 @@
 - Image Augmentation like flips, zoom, shear etc have been done to avoid overfitting
 - Model Evaluation is done to analyse where has model performed well, and where has it misclassified images the most.
 - Set FAST_RUN = True if fast run is required. In this case, the number of Epochs will be set to 5 only.
+- This notebook was written in Kaggle environment. However the libraries that are required are mentioned in requirements.txt
